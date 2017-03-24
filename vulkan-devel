@@ -1,0 +1,6 @@
+spirv-tools
+vulkan-extra-layers
+vulkan-headers
+vulkan-html-docs
+vulkan-trace
+vulkan-validation-layers
