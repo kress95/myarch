@@ -7,6 +7,7 @@ pacman -Q \
 > 0.cache
 
 cat ./*/*.pkgs \
+| tr -d " " \
 > 1.cache
 
 xargs -0 -n 1 pactree -lu \
