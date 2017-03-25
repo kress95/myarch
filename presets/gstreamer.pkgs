@@ -1,0 +1,7 @@
+gstreamer
+    gst-plugins-base
+    gst-plugins-base-libs
+    gst-plugins-bad
+    gst-plugins-good
+    gst-plugins-ugly
+    gst-libav

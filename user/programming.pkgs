@@ -1,12 +1,15 @@
 erlang
-elixir
+    elixir
 luajit
+    luarocks5.1
+love
 python
 nodejs
+    npm
 gcc
 rust
 mono
-love
 jdk8-openjdk
 python
+    python-pip
 python2

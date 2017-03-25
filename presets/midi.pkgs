@@ -1,6 +1,5 @@
 timidity++
-timidity-freepats
+    timidity-freepats
 fluidsynth
-wildmidi
 soundfont-fluid
-sed
+wildmidi

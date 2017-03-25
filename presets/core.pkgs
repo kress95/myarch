@@ -1,0 +1,10 @@
+lzop
+grub
+    os-prober
+rfkill
+ntfs-3g-fuse
+alsa-utils
+efibootmgr
+    efivar
+ntp
+openssh

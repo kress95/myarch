@@ -5,13 +5,21 @@ transmission-gtk
 baka-mplayer
 quodlibet
 audacious
-audacious-plugins
+    audacious-plugins
 aseprite
 krita
 gimp
 lmms
 audacity
+    lame
 blender
 wings3d
 gnome-calculator
 teamviewer
+mousepad
+gparted
+virtualbox
+redshift
+pavucontrol
+konsole
+sublime-text-dev
