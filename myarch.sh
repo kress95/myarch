@@ -25,9 +25,7 @@ cat 3.cache \
 comm -13 4.cache 0.cache \
 > 5.cache
 
-printf "\n"
-
-printf "Remove with:\n\$ sudo pacman -Rcn "
+printf "\nRemove with:\n\$ sudo pacman -Rcn "
 
 cat 5.cache \
 | tr '\r\n' ' '
